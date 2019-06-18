@@ -1,0 +1,2 @@
+# fanicy
+fanicy's blog
